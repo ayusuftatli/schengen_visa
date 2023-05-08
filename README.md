@@ -2,4 +2,4 @@ With this project, I explored the intriguing relationship between the number of 
 
 My question is: Is there a correlation between the increasing number of asylum applications from a country's citizens and the subsequent rise in rejection rates for Schengen visa applications from that country's residents?
 
-You can find about the answer on the my [blog post](https://ayusuftatli.wordpress.com/2023/04/05/asylum-applications-and-schengen-visa-rejection-rates-exploring-the-connection-python-and-tableau/) or right here by clicking on the jupyter notebook file.
+You can find about the answer on the my [blog post](https://ayusuftatli.com/Asylum-Applications-and-Schengen-Visa-Rejection-Rates-Exploring-the-Connection-a053c3050b4e40dc8ccb106bd922aaf6) or right here by clicking on the jupyter notebook file.
